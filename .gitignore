@@ -1,0 +1,10 @@
+md/
+.DS_Store
+images/
+Landmark_Detection/
+database/
+stuff/
+videos/
+Video Detector/
+json/
+joblib/

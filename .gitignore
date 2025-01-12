@@ -1,7 +1,6 @@
 md/
 .DS_Store
 images/
-database/
 stuff/
 json/
 joblib/
